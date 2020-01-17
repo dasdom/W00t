@@ -2,6 +2,8 @@
 
 Another stupid idea.
 
+![](w00t.gif)
+
 # Installation
 
 Add the package to your iOS project.
